@@ -20,6 +20,6 @@ The hash is generated using double SHA1: `SHA1(SHA1(domain))`.
 Statistics
 -------------
 
-- Last update was on September 27, 2017, 12:00 am
+- Last update was on September 28, 2017, 12:00 am
 - The Whitelist currently contains 403 entries
-- The Blacklist currently contains 5939 entries
+- The Blacklist currently contains 5940 entries
