@@ -1,6 +1,9 @@
 {
     "blacklist": [
         {
+            "hash": "0c7b4ae39096b368c5b7355766c1a75a2c2c892d"
+        },
+        {
             "hash": "463a7bc681246f2f2ccc874c7efc534b0ee24c1f"
         },
         {
@@ -1022,6 +1025,9 @@
         },
         {
             "hash": "7f226e49054e1a25499e6ffc1624df891120d642"
+        },
+        {
+            "hash": "916a8d3ce5e10b9940cbd11dd20d579328749393"
         },
         {
             "hash": "bf3fd40cae0a840528192cb474bacc9cfa5cd020"
@@ -13016,6 +13022,9 @@
         },
         {
             "hash": "5a741d7c405a2ffc1a9b093b437bf2257db99884"
+        },
+        {
+            "hash": "f0cbec138de8e64fbf50fe3ffefd8b30174fbdb7"
         },
         {
             "hash": "ef46efbf79969993dd723b2df4b1fc188095a9d2"
