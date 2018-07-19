@@ -23,7 +23,8 @@ Statistics
 - Last update was on July 18, 2018, 12:00 am
 - The Whitelist currently contains 404 entries
 - The Blacklist currently contains 22786 entries
-## Support on Beerpay
-Hey dude! Help me out for a couple of :beers:!
 
-[![Beerpay](https://beerpay.io/SoftCreatR/dead-letter-dump/badge.svg?style=beer-square)](https://beerpay.io/SoftCreatR/dead-letter-dump)  [![Beerpay](https://beerpay.io/SoftCreatR/dead-letter-dump/make-wish.svg?style=flat-square)](https://beerpay.io/SoftCreatR/dead-letter-dump?focus=wish)
+## Support on BMC
+Hey! Help us out for a couple of :coffee:!
+
+[![BMC](https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-2.svg)](https://www.buymeacoff.ee/softcreatr)
