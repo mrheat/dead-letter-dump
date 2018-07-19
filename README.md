@@ -25,6 +25,6 @@ Statistics
 - The Blacklist currently contains 22786 entries
 
 ## Support on BMC
-Hey! Help us out for a couple of :coffee:!
+Hey! Help us out with some cups of :coffee:!
 
 [![BMC](https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-2.svg)](https://www.buymeacoff.ee/softcreatr)
