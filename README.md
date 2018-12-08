@@ -1,28 +1,32 @@
-Dead-Letter.email - Daily dump
+Dead Letter Dump
 ================
 
-Daily dump of the dead-letter.email lists for offline- and privacy aware lookups.
+Daily dump of disposable email address domain list for offline- and privacy aware lookups.
 
 How to use
 -------------
 
-There are two lists available:
+There are three lists available:
 
 1. A blacklist, containing all disposable email address domains
 2. A whitelist, containing all whitelisted domains
+3. A greylist, containing all ddomains, which are blacklisted but marked as dead (no MX record).
 
-Both lists are available in JSON and XML format. Choose, whatever you prefer.
+All three lists are available in JSON and XML format. Choose, whatever you prefer.
 
-Every list contains at least a property `hash`, which represents a hashed version of the actual domain. While the whitelist also contains a property `domain`, which represents a domain in a readable format, the blacklist doesn't.
+Every list contains at least a property `hash`, which represents a hashed version of the actual domain. While the whitelist also contains a property `domain`, which represents a domain in a readable format, the grey- and blacklist don't.
+
+Even if a domain is marked as dead, it's still included in the blacklist. Feel free to filter them out.
 
 The hash is generated using double SHA1: `SHA1(SHA1(domain))`.
 
 Statistics
 -------------
 
-- Last update was on November 24, 2018, 12:00 am
-- The Whitelist currently contains 405 entries
-- The Blacklist currently contains 32142 entries
+- Last update was on December 8, 2018, 7:08 am
+- The Whitelist currently contains 407 entries
+- The Blacklist currently contains 32239 entries
+- The Greylist currently contains 24411 entries
 
 ## Support on BMC
 Hey! Help us out with some cups of :coffee:!

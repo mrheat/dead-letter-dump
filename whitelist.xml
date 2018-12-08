@@ -1537,6 +1537,10 @@
     <domain><![CDATA[yahoo.ca]]></domain>
   </entry>
   <entry>
+    <hash>4d7c19d4829ecc3617a23e23f5d83691f761d019</hash>
+    <domain><![CDATA[yahoo.co.jp]]></domain>
+  </entry>
+  <entry>
     <hash>4943aaf90c93da9239190d852e80574ec34a3e00</hash>
     <domain><![CDATA[yahoo.co.uk]]></domain>
   </entry>
@@ -1551,6 +1555,10 @@
   <entry>
     <hash>82a805871a36af7c2a28e73b619eb6a9e80afec5</hash>
     <domain><![CDATA[yahoo.com.br]]></domain>
+  </entry>
+  <entry>
+    <hash>68eff90d3ea77abcb4aed76c9cc2514442a85946</hash>
+    <domain><![CDATA[yahoo.com.vn]]></domain>
   </entry>
   <entry>
     <hash>a06c24fdc37eda5dd60d538f18755f1b5b09fdff</hash>
