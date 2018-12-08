@@ -10,7 +10,7 @@ There are three lists available:
 
 1. A blacklist, containing all disposable email address domains
 2. A whitelist, containing all whitelisted domains
-3. A greylist, containing all ddomains, which are blacklisted but marked as dead (no MX record).
+3. A greylist, containing all domains, which are blacklisted but marked as dead (no MX record).
 
 All three lists are available in JSON and XML format. Choose, whatever you prefer.
 
@@ -23,9 +23,9 @@ The hash is generated using double SHA1: `SHA1(SHA1(domain))`.
 Statistics
 -------------
 
-- Last update was on December 8, 2018, 7:09 am
+- Last update was on December 9, 2018, 12:00 am
 - The Whitelist currently contains 407 entries
-- The Blacklist currently contains 32239 entries
+- The Blacklist currently contains 32250 entries
 - The Greylist currently contains 24411 entries
 
 ## Support on BMC
