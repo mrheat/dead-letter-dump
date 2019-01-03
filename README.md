@@ -23,9 +23,9 @@ The hash is generated using double SHA1: `SHA1(SHA1(domain))`.
 Statistics
 -------------
 
-- Last update was on January 3, 2019, 12:00 am
+- Last update was on January 4, 2019, 12:00 am
 - The Whitelist currently contains 407 entries
-- The Blacklist currently contains 32433 entries
+- The Blacklist currently contains 32447 entries
 - The Greylist currently contains 0 entries
 
 ## Support on BMC
