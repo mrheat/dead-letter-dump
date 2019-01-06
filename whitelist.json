@@ -1533,20 +1533,72 @@
             "domain": "writeme.com"
         },
         {
+            "hash": "edcd88ea5d2ead4696dcfb8a7c6a97b24720e85b",
+            "domain": "yahoo.ae"
+        },
+        {
+            "hash": "f4f73a3d0b2eb8e67c9417eb16fcd4394f02c597",
+            "domain": "yahoo.at"
+        },
+        {
+            "hash": "8f61cb0f52f5c4902d4b1de2d8dbf318242c4845",
+            "domain": "yahoo.be"
+        },
+        {
             "hash": "ea556132340951169d7657e956be1de552d234d0",
             "domain": "yahoo.ca"
+        },
+        {
+            "hash": "942f60cebc0a1c3085ae46461794dcee20ef311d",
+            "domain": "yahoo.ch"
+        },
+        {
+            "hash": "04918f946f920feced72bb0ff408a553c5fd87f4",
+            "domain": "yahoo.cn"
+        },
+        {
+            "hash": "d51f66698cc891af2e4fe24b542f28517d76ec85",
+            "domain": "yahoo.co.id"
+        },
+        {
+            "hash": "7a12bf40a54d48d257a3fa53948f48d6c7d23c40",
+            "domain": "yahoo.co.il"
+        },
+        {
+            "hash": "f355c70682d64c4881194c6834ad7e4985eaf478",
+            "domain": "yahoo.co.in"
         },
         {
             "hash": "4d7c19d4829ecc3617a23e23f5d83691f761d019",
             "domain": "yahoo.co.jp"
         },
         {
+            "hash": "18c60acdb1eedbd90dbb8c6faf5b631f1fd44261",
+            "domain": "yahoo.co.kr"
+        },
+        {
+            "hash": "a648118094506e24ceaf86510c071d47712e2050",
+            "domain": "yahoo.co.nz"
+        },
+        {
+            "hash": "f5e01973b791c9722ed010e26a74b5a6c098fb22",
+            "domain": "yahoo.co.th"
+        },
+        {
             "hash": "4943aaf90c93da9239190d852e80574ec34a3e00",
             "domain": "yahoo.co.uk"
         },
         {
+            "hash": "6f8560fa74653bbbc2d9d4cdb93d18305c8a488f",
+            "domain": "yahoo.co.za"
+        },
+        {
             "hash": "8b139092b12a6e3fc3e1003464ca6989499c9a20",
             "domain": "yahoo.com"
+        },
+        {
+            "hash": "32e4ff0aa4305bf113e61ed38ceaf1252e7d034a",
+            "domain": "yahoo.com.ar"
         },
         {
             "hash": "85f069299addfa3db48d3e9dfe37c300544d4e9b",
@@ -1557,8 +1609,48 @@
             "domain": "yahoo.com.br"
         },
         {
+            "hash": "873337a216f04158204363163f0297b0b04e2ade",
+            "domain": "yahoo.com.cn"
+        },
+        {
+            "hash": "80f964ad08cb63f11882fd7ded5bbe769eec0667",
+            "domain": "yahoo.com.co"
+        },
+        {
+            "hash": "96693a3c96f95ea587c277f73e00b2e1907c641e",
+            "domain": "yahoo.com.hk"
+        },
+        {
+            "hash": "850e76609c1b26e21ee3cf940ff16a36377041c0",
+            "domain": "yahoo.com.mx"
+        },
+        {
+            "hash": "5cd014ddefd0d607feda4f029b747e7c505cc2ed",
+            "domain": "yahoo.com.my"
+        },
+        {
+            "hash": "17ab9c498c230f8b139c50a1412be2fffdf5532b",
+            "domain": "yahoo.com.ph"
+        },
+        {
+            "hash": "c4677b1fe1a5ce26dda331dec51d0dff7e20d17d",
+            "domain": "yahoo.com.sg"
+        },
+        {
+            "hash": "669fa02cd80a20be4ea6679bfd31e2e93ec08dd6",
+            "domain": "yahoo.com.tr"
+        },
+        {
+            "hash": "a9b0a55d32813a4ca3e2ff9a98afeb1f528bc422",
+            "domain": "yahoo.com.tw"
+        },
+        {
             "hash": "68eff90d3ea77abcb4aed76c9cc2514442a85946",
             "domain": "yahoo.com.vn"
+        },
+        {
+            "hash": "7c915610b7abb8385fd5ab787811d667742599dd",
+            "domain": "yahoo.cz"
         },
         {
             "hash": "a06c24fdc37eda5dd60d538f18755f1b5b09fdff",
@@ -1573,6 +1665,10 @@
             "domain": "yahoo.es"
         },
         {
+            "hash": "8eaa6d0e4097ecffd003bdf2fafb42bdcc0d0fca",
+            "domain": "yahoo.fi"
+        },
+        {
             "hash": "31e39a9808b5a6da053f09ff0873f245049f3573",
             "domain": "yahoo.fr"
         },
@@ -1581,12 +1677,44 @@
             "domain": "yahoo.gr"
         },
         {
+            "hash": "d096b8cb39358a95246271fd23543e6e4b0ef03e",
+            "domain": "yahoo.hu"
+        },
+        {
+            "hash": "2719067230fb6c03387d61ee661a889e360404c4",
+            "domain": "yahoo.ie"
+        },
+        {
+            "hash": "9cdac2b35f9ba8568985a628eda949f402ceb3e0",
+            "domain": "yahoo.in"
+        },
+        {
             "hash": "0d0a03a23164ca8e5de047bf61399f01af775da7",
             "domain": "yahoo.it"
         },
         {
+            "hash": "59d0dfbbc39724209615c6fe033b7f8bcee501c0",
+            "domain": "yahoo.nl"
+        },
+        {
             "hash": "d6d519d6a33e773cc2c0326a9c4fa391992b0ef7",
             "domain": "yahoo.no"
+        },
+        {
+            "hash": "a9d3bb51751fc5b04e8d1b3fa97ddf4be61e85c3",
+            "domain": "yahoo.pl"
+        },
+        {
+            "hash": "fc38e08a5985f3f717e489e2c1229d4667da603a",
+            "domain": "yahoo.pt"
+        },
+        {
+            "hash": "53259e65c23daafb4c98a2b62f03886233c0d8ee",
+            "domain": "yahoo.ro"
+        },
+        {
+            "hash": "8788e0181279a61130b4096d896a22fda3c184dd",
+            "domain": "yahoo.ru"
         },
         {
             "hash": "11475f77c24228c3e6d371b1524b92fd5c360171",

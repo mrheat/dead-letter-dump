@@ -1533,20 +1533,72 @@
     <domain><![CDATA[writeme.com]]></domain>
   </entry>
   <entry>
+    <hash>edcd88ea5d2ead4696dcfb8a7c6a97b24720e85b</hash>
+    <domain><![CDATA[yahoo.ae]]></domain>
+  </entry>
+  <entry>
+    <hash>f4f73a3d0b2eb8e67c9417eb16fcd4394f02c597</hash>
+    <domain><![CDATA[yahoo.at]]></domain>
+  </entry>
+  <entry>
+    <hash>8f61cb0f52f5c4902d4b1de2d8dbf318242c4845</hash>
+    <domain><![CDATA[yahoo.be]]></domain>
+  </entry>
+  <entry>
     <hash>ea556132340951169d7657e956be1de552d234d0</hash>
     <domain><![CDATA[yahoo.ca]]></domain>
+  </entry>
+  <entry>
+    <hash>942f60cebc0a1c3085ae46461794dcee20ef311d</hash>
+    <domain><![CDATA[yahoo.ch]]></domain>
+  </entry>
+  <entry>
+    <hash>04918f946f920feced72bb0ff408a553c5fd87f4</hash>
+    <domain><![CDATA[yahoo.cn]]></domain>
+  </entry>
+  <entry>
+    <hash>d51f66698cc891af2e4fe24b542f28517d76ec85</hash>
+    <domain><![CDATA[yahoo.co.id]]></domain>
+  </entry>
+  <entry>
+    <hash>7a12bf40a54d48d257a3fa53948f48d6c7d23c40</hash>
+    <domain><![CDATA[yahoo.co.il]]></domain>
+  </entry>
+  <entry>
+    <hash>f355c70682d64c4881194c6834ad7e4985eaf478</hash>
+    <domain><![CDATA[yahoo.co.in]]></domain>
   </entry>
   <entry>
     <hash>4d7c19d4829ecc3617a23e23f5d83691f761d019</hash>
     <domain><![CDATA[yahoo.co.jp]]></domain>
   </entry>
   <entry>
+    <hash>18c60acdb1eedbd90dbb8c6faf5b631f1fd44261</hash>
+    <domain><![CDATA[yahoo.co.kr]]></domain>
+  </entry>
+  <entry>
+    <hash>a648118094506e24ceaf86510c071d47712e2050</hash>
+    <domain><![CDATA[yahoo.co.nz]]></domain>
+  </entry>
+  <entry>
+    <hash>f5e01973b791c9722ed010e26a74b5a6c098fb22</hash>
+    <domain><![CDATA[yahoo.co.th]]></domain>
+  </entry>
+  <entry>
     <hash>4943aaf90c93da9239190d852e80574ec34a3e00</hash>
     <domain><![CDATA[yahoo.co.uk]]></domain>
   </entry>
   <entry>
+    <hash>6f8560fa74653bbbc2d9d4cdb93d18305c8a488f</hash>
+    <domain><![CDATA[yahoo.co.za]]></domain>
+  </entry>
+  <entry>
     <hash>8b139092b12a6e3fc3e1003464ca6989499c9a20</hash>
     <domain><![CDATA[yahoo.com]]></domain>
+  </entry>
+  <entry>
+    <hash>32e4ff0aa4305bf113e61ed38ceaf1252e7d034a</hash>
+    <domain><![CDATA[yahoo.com.ar]]></domain>
   </entry>
   <entry>
     <hash>85f069299addfa3db48d3e9dfe37c300544d4e9b</hash>
@@ -1557,8 +1609,48 @@
     <domain><![CDATA[yahoo.com.br]]></domain>
   </entry>
   <entry>
+    <hash>873337a216f04158204363163f0297b0b04e2ade</hash>
+    <domain><![CDATA[yahoo.com.cn]]></domain>
+  </entry>
+  <entry>
+    <hash>80f964ad08cb63f11882fd7ded5bbe769eec0667</hash>
+    <domain><![CDATA[yahoo.com.co]]></domain>
+  </entry>
+  <entry>
+    <hash>96693a3c96f95ea587c277f73e00b2e1907c641e</hash>
+    <domain><![CDATA[yahoo.com.hk]]></domain>
+  </entry>
+  <entry>
+    <hash>850e76609c1b26e21ee3cf940ff16a36377041c0</hash>
+    <domain><![CDATA[yahoo.com.mx]]></domain>
+  </entry>
+  <entry>
+    <hash>5cd014ddefd0d607feda4f029b747e7c505cc2ed</hash>
+    <domain><![CDATA[yahoo.com.my]]></domain>
+  </entry>
+  <entry>
+    <hash>17ab9c498c230f8b139c50a1412be2fffdf5532b</hash>
+    <domain><![CDATA[yahoo.com.ph]]></domain>
+  </entry>
+  <entry>
+    <hash>c4677b1fe1a5ce26dda331dec51d0dff7e20d17d</hash>
+    <domain><![CDATA[yahoo.com.sg]]></domain>
+  </entry>
+  <entry>
+    <hash>669fa02cd80a20be4ea6679bfd31e2e93ec08dd6</hash>
+    <domain><![CDATA[yahoo.com.tr]]></domain>
+  </entry>
+  <entry>
+    <hash>a9b0a55d32813a4ca3e2ff9a98afeb1f528bc422</hash>
+    <domain><![CDATA[yahoo.com.tw]]></domain>
+  </entry>
+  <entry>
     <hash>68eff90d3ea77abcb4aed76c9cc2514442a85946</hash>
     <domain><![CDATA[yahoo.com.vn]]></domain>
+  </entry>
+  <entry>
+    <hash>7c915610b7abb8385fd5ab787811d667742599dd</hash>
+    <domain><![CDATA[yahoo.cz]]></domain>
   </entry>
   <entry>
     <hash>a06c24fdc37eda5dd60d538f18755f1b5b09fdff</hash>
@@ -1573,6 +1665,10 @@
     <domain><![CDATA[yahoo.es]]></domain>
   </entry>
   <entry>
+    <hash>8eaa6d0e4097ecffd003bdf2fafb42bdcc0d0fca</hash>
+    <domain><![CDATA[yahoo.fi]]></domain>
+  </entry>
+  <entry>
     <hash>31e39a9808b5a6da053f09ff0873f245049f3573</hash>
     <domain><![CDATA[yahoo.fr]]></domain>
   </entry>
@@ -1581,12 +1677,44 @@
     <domain><![CDATA[yahoo.gr]]></domain>
   </entry>
   <entry>
+    <hash>d096b8cb39358a95246271fd23543e6e4b0ef03e</hash>
+    <domain><![CDATA[yahoo.hu]]></domain>
+  </entry>
+  <entry>
+    <hash>2719067230fb6c03387d61ee661a889e360404c4</hash>
+    <domain><![CDATA[yahoo.ie]]></domain>
+  </entry>
+  <entry>
+    <hash>9cdac2b35f9ba8568985a628eda949f402ceb3e0</hash>
+    <domain><![CDATA[yahoo.in]]></domain>
+  </entry>
+  <entry>
     <hash>0d0a03a23164ca8e5de047bf61399f01af775da7</hash>
     <domain><![CDATA[yahoo.it]]></domain>
   </entry>
   <entry>
+    <hash>59d0dfbbc39724209615c6fe033b7f8bcee501c0</hash>
+    <domain><![CDATA[yahoo.nl]]></domain>
+  </entry>
+  <entry>
     <hash>d6d519d6a33e773cc2c0326a9c4fa391992b0ef7</hash>
     <domain><![CDATA[yahoo.no]]></domain>
+  </entry>
+  <entry>
+    <hash>a9d3bb51751fc5b04e8d1b3fa97ddf4be61e85c3</hash>
+    <domain><![CDATA[yahoo.pl]]></domain>
+  </entry>
+  <entry>
+    <hash>fc38e08a5985f3f717e489e2c1229d4667da603a</hash>
+    <domain><![CDATA[yahoo.pt]]></domain>
+  </entry>
+  <entry>
+    <hash>53259e65c23daafb4c98a2b62f03886233c0d8ee</hash>
+    <domain><![CDATA[yahoo.ro]]></domain>
+  </entry>
+  <entry>
+    <hash>8788e0181279a61130b4096d896a22fda3c184dd</hash>
+    <domain><![CDATA[yahoo.ru]]></domain>
   </entry>
   <entry>
     <hash>11475f77c24228c3e6d371b1524b92fd5c360171</hash>
