@@ -20,12 +20,19 @@ Even if a domain is marked as dead, it's still included in the blacklist. Feel f
 
 The hash is generated using double SHA1: `SHA1(SHA1(domain))`.
 
+Contributing
+-------------
+
+Contributing to this project is easy as 1-2-3, even without a Github account. If you have a Github account, just create an issue and list all domains you believe they are missing in the list(s).
+
+If you don't have a Github account or prefer staying anonymous, use our [Git Reports](https://gitreports.com/issue/SoftCreatR/dead-letter-dump) form.
+
 Statistics
 -------------
 
-- Last update was on January 7, 2019, 7:21 am
+- Last update was on January 8, 2019, 12:00 am
 - The Whitelist currently contains 439 entries
-- The Blacklist currently contains 33118 entries
+- The Blacklist currently contains 33123 entries
 - The Greylist currently contains 25090 entries
 
 ## Support on BMC
