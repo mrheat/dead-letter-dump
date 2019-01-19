@@ -12,9 +12,9 @@ There are three lists available:
 2. A whitelist, containing all whitelisted domains
 3. A greylist, containing all domains, which are blacklisted but marked as dead (no MX record).
 
-All three lists are available in JSON and XML format. Choose, whatever you prefer.
+All three lists are available in JSON, XML and TXT format. Choose, whatever you prefer.
 
-Every list contains at least a property `hash`, which represents a hashed version of the actual domain. While the whitelist also contains a property `domain`, which represents a domain in a readable format, the grey- and blacklist don't.
+Every list (except the TXT file version) contains at least a property `hash`, which represents a hashed version of the actual domain. While the whitelist also contains a property `domain`, which represents a domain in a readable format, the grey- and blacklist don't.
 
 Even if a domain is marked as dead, it's still included in the blacklist. Feel free to filter them out.
 
@@ -30,9 +30,9 @@ If you don't have a Github account or prefer staying anonymous, use our [Git Rep
 Statistics
 -------------
 
-- Last update was on January 19, 2019, 12:00 am
+- Last update was on January 19, 2019, 5:58 am
 - The Whitelist currently contains 440 entries
-- The Blacklist currently contains 34389 entries
+- The Blacklist currently contains 34391 entries
 - The Greylist currently contains 25135 entries
 
 ## Support on BMC
