@@ -30,10 +30,10 @@ If you don't have a Github account or prefer staying anonymous, use our [Git Rep
 Statistics
 -------------
 
-- Last update was on September 20, 2019, 12:00 am
+- Last update was on September 21, 2019, 12:00 am
 - The Whitelist currently contains 441 entries
-- The Blacklist currently contains 70169 entries
-- The Greylist currently contains 46342 entries
+- The Blacklist currently contains 70176 entries
+- The Greylist currently contains 46353 entries
 
 ## Support on BMC
 Hey! Help us out with some cups of :coffee:!
