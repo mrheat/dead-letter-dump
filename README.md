@@ -3,6 +3,8 @@ Dead Letter Dump
 
 Daily dump of disposable email address domain list for offline- and privacy aware lookups.
 
+Update: This project has been abandoned. For this reason, we've published a list of unhashed domains. Grab it, while it's hot and thank you for your support in the last years!
+
 How to use
 -------------
 
@@ -30,9 +32,9 @@ If you don't have a Github account or prefer staying anonymous, use our [Git Rep
 Statistics
 -------------
 
-- Last update was on April 5, 2020, 12:01 am
+- Last update was on April 5, 2020, 7:14 am
 - The Whitelist currently contains 536 entries
-- The Blacklist currently contains 118548 entries
+- The Blacklist currently contains 118598 entries
 - The Greylist currently contains 90519 entries
 
 ## Support on BMC
